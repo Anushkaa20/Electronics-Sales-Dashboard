@@ -67,6 +67,7 @@ LG
 🧩 Data modeling and relationships
 
 #Screenshot
+![Alt text](https://github.com/Anushkaa20/Electronics-Sales-Dashboard/blob/main/Screenshot%202026-03-17%20011124.png)
 
 🎯 Purpose of the Project
 This project demonstrates how raw sales data can be transformed into meaningful business insights using data visualization techniques.
